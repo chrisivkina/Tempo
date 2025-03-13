@@ -1,5 +1,6 @@
 # Tempo
  Rythm clone, a bot for streaming music.
+ This fork aims to implement slash commands.
 
 ## Info on V2
 
